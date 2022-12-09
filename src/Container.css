@@ -1,0 +1,23 @@
+.container_top, .container_all{
+    width: 90%;
+    padding: 10px;
+    display: flex;
+    margin: 10px auto;
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+.film_box{
+    background: #6666FF;
+    width: 250px;
+    height: 350px;
+    margin: auto 20px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+
+.main_box{
+    margin-top: 20px;
+}

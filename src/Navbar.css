@@ -1,0 +1,72 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    background: #282c34;
+}
+
+.title{
+    font-size: min(2rem);
+    padding: 0;
+}
+
+nav .logo{
+    font-size: 65px;
+    padding: 10px;
+}
+
+nav input{
+    width: 20%;
+    height: 75%;
+    padding: 0 1rem;
+    margin: auto 0;
+    border-radius: 90px;
+    background: #6699CC;
+    border: none;
+}
+
+nav button{
+    background: none;
+    height: 75%;
+    width: 10%;
+    margin: auto 0;
+    border: none;
+    font-size: 1.5rem;
+    height: 100%;
+}
+
+nav{
+    margin: 1rem 10% 1rem 10%;
+    width: 80%;
+    height: 60px;
+    background-image: linear-gradient(to right,#66CCFF, #6600FF);
+    border-radius: 90px;
+    color: inherit;
+    display: flex;
+    align-items: stretch;
+    gap: 2rem;
+    padding: 0 3%;
+    font-size: 1.5rem;
+}
+
+nav a {
+    text-decoration: none;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding: 0 3rem;
+}
+
+nav li:hover, button:hover{
+    background: #66CCFF;
+    transform: scale(110%);
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
