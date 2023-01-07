@@ -1,0 +1,87 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+}
+
+/*Style do nagłówka*/
+
+.header{
+    display: flex;
+    background: #000;
+    height: 84px;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 10px 0 #000;
+}
+
+.header__nav{
+    display: grid;
+    grid-template-columns: 390px 650px 1fr;
+    align-items: center;
+    gap: 50px;
+}
+
+.header__nav__list{
+    display: grid;
+    grid-template-columns: repeat(3,200px);
+    gap: 30px;
+    text-align: center;
+}
+
+.header__nav__item{
+    padding: 5px;
+    font-size: 24px;
+    list-style-type: none;
+    color: #FFF;
+}
+
+.header__nav__title{
+    display: flex;
+    height: 64px;
+    font-size: 48px;
+    align-items: center;
+}
+
+.header__nav__title-link{
+    color: #8A2BE2;
+}
+
+.header__nav__title-logo{
+    padding-top: 12px;
+    padding-right: 10px;
+}
+
+.header__nav__login{
+    display: flex;
+    height: 74px;
+    align-items: center;
+}
+
+.header__nav__login-search{
+    height: 35px;
+    width: 350px;
+    margin-right: 40px;
+    padding-left: 10px;
+}
+
+.header__nav__login-button{
+    width: 200px;
+    background: #000;
+    color: #FFF;
+    padding: 10px;
+    font-size: 15px;
+    border: none;
+}
+
+.header__nav__item:hover{
+    background: #8A2BE2;
+    box-shadow: 3px 2px #FFF;
+}
+
+.header__nav__login-button:hover{
+    box-shadow: 3px 2px #FFF;
+    background: #8A2BE2;
+}

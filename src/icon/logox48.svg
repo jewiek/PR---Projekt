@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48.0px"
+   height="48.0px"
+   viewBox="0 0 48.0 48.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="logox48.svg"
+   inkscape:export-filename="logox48.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview301"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="10.24"
+     inkscape:cx="10.351563"
+     inkscape:cy="18.75"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid307" />
+  </sodipodi:namedview>
+  <defs
+     id="defs296" />
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#ffffff;stroke-width:12.4124"
+       id="path113"
+       cx="23.486328"
+       cy="23.730471"
+       rx="23.478697"
+       ry="23.722273" />
+    <path
+       sodipodi:type="star"
+       style="fill:#008080"
+       id="path275"
+       inkscape:flatsided="false"
+       sodipodi:sides="3"
+       sodipodi:cx="3.0278025"
+       sodipodi:cy="4.839077"
+       sodipodi:r1="6.8303938"
+       sodipodi:r2="3.4151971"
+       sodipodi:arg1="2.0928879"
+       sodipodi:arg2="3.1400855"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -0.37847501,10.759512 -0.008916,-5.9152878 -0.008915,-5.9152876 5.12724759,2.9499227 5.127247,2.9499229 -5.1183318,2.9653653 z"
+       inkscape:transform-center-x="-4.9983225"
+       inkscape:transform-center-y="0.015263692"
+       transform="matrix(2.9347708,0,0,2.9654261,12.921483,9.7704934)" />
+  </g>
+</svg>
