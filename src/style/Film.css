@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.main__filmscene{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 135px auto 20px;
+    background: #8A2BE2;
+    box-shadow: 8px 6px #000;
+    width: 90vw;
+    text-align: center;
+}
+
+.MovieImage{
+    margin: 20px 38px 0px 38px;
+    min-height: 300px;
+    max-height: 300px;
+}
+
+.MovieTitle{
+    color: #FFFFFF;
+}

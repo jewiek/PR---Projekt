@@ -1,13 +1,13 @@
-import React from 'react'
+import React, {useEffect, useState} from 'react'
 import Navbar from "./components/Navbar";
-import Main from "./components/Main";
-import Login from "./components/Login";
+import Film from "./components/Film";
 
 function Home() {
+    const [data2, setD] = useState("");
     return(
         <div>
-            <Navbar/>
-            <Main/>
+            <Navbar setD={setD}/>
+            <Film data2={data2}/>
         </div>
     )
 }

@@ -1,6 +1,11 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 .main{
+    margin-top: 80px;
     display: grid;
-    grid-template-rows: 40vh 50% 50%;
+    grid-template-rows: 40vh 450px 450px;
     gap: 5px
 }
 
@@ -34,7 +39,7 @@
 
 .main__middle{
     display: grid;
-    grid-template-rows: 20% 80%;
+    grid-template-rows: 60px 80%;
 }
 
 .main__middle__text{
@@ -47,7 +52,6 @@
     width: 200px;
     text-shadow: 2px 2px #000000;
 }
-
 .main__middle__img{
     justify-self: center;
     height: 100%;
@@ -59,7 +63,7 @@
 
 .main__bottom{
     display: grid;
-    grid-template-rows: 20% 80%;
+    grid-template-rows: 60px 80%;
 }
 
 .main__bottom__text{
@@ -78,6 +82,8 @@
     height: 100%;
     width: 90%;
     background: #000;
+    font-size: 50px;
     color: #FFF;
-    text-align: center;
+    padding-top: 40px;
+    padding-left: 40px;
 }

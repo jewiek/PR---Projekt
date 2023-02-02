@@ -1,0 +1,62 @@
+.main__add{
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    margin: 200px auto;
+    align-self: center;
+    background: #8A2BE2;
+    width: 500px;
+    height: 60%;
+    box-shadow: 8px 6px #000;
+}
+
+.main__add__form{
+    padding: 20px;
+    display: flex;
+    text-align: center;
+    align-self: center;
+    flex-direction: column;
+}
+
+.main__add__form-label{
+    color: #FFF;
+    font-size: 28px;
+    font-family:"Gill Sans MT";
+    margin-top: 15px;
+    text-shadow: 2px 2px #000000;
+}
+
+.main__add__form-h{
+    color: #FFFFFF;
+    font-family: "Gill Sans MT";
+    font-size: 38px;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px #000000;
+}
+
+.main__add__form-space{
+    font-family:"Gill Sans MT";
+    height: 50px;
+    width: 300px;
+    padding-left: 10px;
+    margin-top: 10px;
+    box-shadow: 4px 3px #000;
+}
+
+.main__add__form-addButton{
+    height: 50px;
+    width: 150px;
+    margin-top: 25px;
+    font-size: 24px;
+    font-family:"Gill Sans MT";
+    background: #FFFFFF;
+    align-self: center;
+}
+
+.main__add__form-addButton:hover{
+    background: #000;
+    color: #FFFFFF;
+    box-shadow: 6px 4px #FFF;
+    border: none;
+    cursor:pointer;
+}

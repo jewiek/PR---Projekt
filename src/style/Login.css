@@ -67,6 +67,7 @@
     color: #FFFFFF;
     box-shadow: 6px 4px #FFF;
     border: none;
+    cursor:pointer;
 }
 
 .main__login__form-h, .main__register__form-h{
